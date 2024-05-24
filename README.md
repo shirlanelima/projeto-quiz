@@ -4,5 +4,4 @@ Funcionalidades
 Pergunta ao usuário 4 questões de múltipla escolha.
 Verifica e exibe a resposta correta após cada pergunta.
 Mostra a pontuação final ao usuário no final do quiz.
-Pré-requisitos
-Python 3.x instalado em seu sistema.# projeto-quiz
+
